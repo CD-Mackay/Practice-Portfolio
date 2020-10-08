@@ -1,2 +1,2 @@
-# Practice-Portfolio
-Practice portfolio page for FCC
+# Portfolio
+portfolio page for FCC
